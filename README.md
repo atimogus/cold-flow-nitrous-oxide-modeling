@@ -1,2 +1,6 @@
 # cold-flow-nitrous-oxide-modeling
-model for nitrous oxide tank empting with concentric tanks (bi propellant rocket engine) 
+modeling cold flow of self pressurized nitrous oxide and desired fuel, made for concentric design of a pressure vessels using SPI injector model
+
+future projects
+1 adding hot fire test
+2 adding dyer injector modeling
