@@ -6,3 +6,6 @@ Dataset.csv is cold flow data from Sunride student team https://www.linkedin.com
 future projects
 1 adding hot fire test
 2 adding dyer injector modeling
+
+reference
+https://github.com/miamrljic03/NitrousOxide_Thermo_Diagrams
