@@ -10,3 +10,5 @@ future projects
 
 reference
 https://github.com/miamrljic03/NitrousOxide_Thermo_Diagrams
+
+http://www.aspirespace.org.uk/downloads/Modelling%20the%20nitrous%20run%20tank%20emptying.pdf
